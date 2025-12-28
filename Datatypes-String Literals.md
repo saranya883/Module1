@@ -14,3 +14,5 @@ To write a Python program to read a string from the user and then print it.
 <img width="808" height="214" alt="image" src="https://github.com/user-attachments/assets/39ededa2-65bd-498b-a1b8-03eab161a96e" />
 
 ## Result
+Thus , the program has been executed succesfully.
+
